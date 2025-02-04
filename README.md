@@ -1,7 +1,3 @@
-# Dart Programs Collection
-
-Kumpulan program sederhana yang dibuat dengan bahasa Dart.
-
 ## Daftar Program
 
 ### 1. `sloane_oeis.dart`
